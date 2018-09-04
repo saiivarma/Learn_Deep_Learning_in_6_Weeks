@@ -7,7 +7,7 @@ This is the Curriculum for "Learn Deep Learning in 6 Weeks" by Siraj Raval on Yo
 This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube by Siraj Raval
 
 ## Week 1 - Feedforward Neural Networks and Backpropagation
-
+  Done...!
 - [ ] Read Part I of the Deep Learning Book found [here](http://www.deeplearningbook.org/) 
 - [ ] Use this cheat sheet to help understand any math notation, found [here](https://www.flickr.com/photos/95869671@N08/40544016221)
 - [ ] Watch [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
